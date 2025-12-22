@@ -1,2 +1,17 @@
-# gpio-web-controller
-Configurable web UI for controlling Raspberry Pi GPIO pins with custom buttons, images, and timed actions.
+# Website
+
+https://www.actionpanel.de
+
+# GpioFlow
+
+Web-based GPIO control software for Raspberry Pi with a dynamic, configurable frontend.
+
+## Features
+- Control Raspberry Pi GPIO pins via web interface
+- Dynamic UI with configurable buttons and images
+- Timed GPIO actions on button click
+- Frontend and backend architecture
+- Designed for automation and IoT projects
+
+## Status
+This project is under active development.
