@@ -2,7 +2,7 @@
 
 🚀 Web-based GPIO control software for Raspberry Pi with a dynamic, configurable frontend.
 
-🌐 Website: https://deine-webseite.de
+🌐 Website: https://actionpanel.de
 
 ---
 
@@ -69,10 +69,10 @@ This repository does **not** contain source code.
 GpioFlow is available as a **commercial product**.
 
 👉 Learn more, request a demo, or get a license:
-**https://deine-webseite.de**
+**https://actionpanel.de**
 
 ---
 
 ## 📸 Screenshots & Demo
 
-Screenshots and demo videos are available on the website.
+Demo is available on the website.
