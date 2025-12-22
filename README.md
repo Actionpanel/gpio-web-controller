@@ -1,17 +1,78 @@
-# Website
-
-https://www.actionpanel.de
-
 # GpioFlow
 
-Web-based GPIO control software for Raspberry Pi with a dynamic, configurable frontend.
+🚀 Web-based GPIO control software for Raspberry Pi with a dynamic, configurable frontend.
 
-## Features
-- Control Raspberry Pi GPIO pins via web interface
-- Dynamic UI with configurable buttons and images
-- Timed GPIO actions on button click
-- Frontend and backend architecture
-- Designed for automation and IoT projects
+🌐 Website: https://deine-webseite.de
 
-## Status
-This project is under active development.
+---
+
+## 🔌 Control GPIO. Visually. Easily.
+
+GpioFlow is a commercial software solution that allows you to control Raspberry Pi GPIO pins
+through a modern, web-based user interface — no programming required.
+
+Create interactive control panels using buttons and images, define GPIO actions,
+and automate timed pin behavior with just a few clicks.
+
+---
+
+## ❓ The Problem
+
+Controlling GPIO pins usually requires:
+- Writing custom scripts
+- Technical knowledge
+- Hard-coded user interfaces
+- Manual changes for every new setup
+
+This makes rapid prototyping and user-friendly control difficult.
+
+---
+
+## ✅ The Solution
+
+GpioFlow solves this by providing:
+- A configurable web frontend
+- Visual button and image-based controls
+- Dynamic GPIO-to-action mapping
+- Timed GPIO activation per interaction
+- A clean frontend & backend architecture
+
+All configurable without touching the code.
+
+---
+
+## ⭐ Key Features
+
+- 🌐 Web-based GPIO control for Raspberry Pi
+- 🎛️ Dynamic UI with custom buttons and images
+- ⏱️ Configurable GPIO activation timing
+- 🔁 Flexible pin-to-action mapping
+- ⚙️ Frontend & backend separation
+- 🧩 Designed for automation, IoT, and control panels
+
+---
+
+## 👥 Who Is It For?
+
+- Makers & hobbyists
+- IoT developers
+- System integrators
+- Educational projects
+- Companies building Raspberry Pi-based products
+
+---
+
+## 📦 Availability
+
+This repository does **not** contain source code.
+
+GpioFlow is available as a **commercial product**.
+
+👉 Learn more, request a demo, or get a license:
+**https://deine-webseite.de**
+
+---
+
+## 📸 Screenshots & Demo
+
+Screenshots and demo videos are available on the website.
