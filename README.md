@@ -1,12 +1,12 @@
 # GpioFlow
 
-🚀 Web-based GPIO control software for Raspberry Pi with a dynamic, configurable frontend.
+🚀 Web-based GPIO & PWM control software for Raspberry Pi with a dynamic, configurable frontend.
 
 🌐 Website: https://actionpanel.de
 
 ---
 
-## 🔌 Control GPIO. Visually. Easily.
+## 🔌 Control GPIO & PWM. Visually. Easily.
 
 GpioFlow is a commercial software solution that allows you to control Raspberry Pi GPIO pins
 through a modern, web-based user interface — no programming required.
@@ -34,7 +34,7 @@ GpioFlow solves this by providing:
 - A configurable web frontend
 - Visual button and image-based controls
 - Dynamic GPIO-to-action mapping
-- Timed GPIO activation per interaction
+- Timed GPIO & PWM activation per interaction
 - A clean frontend & backend architecture
 
 All configurable without touching the code.
@@ -43,7 +43,7 @@ All configurable without touching the code.
 
 ## ⭐ Key Features
 
-- 🌐 Web-based GPIO control for Raspberry Pi
+- 🌐 Web-based GPIO & PWM control for Raspberry Pi
 - 🎛️ Dynamic UI with custom buttons and images
 - ⏱️ Configurable GPIO activation timing
 - 🔁 Flexible pin-to-action mapping
