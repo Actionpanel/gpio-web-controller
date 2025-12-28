@@ -2,7 +2,8 @@
 
 🚀 Web-based GPIO & PWM control software for Raspberry Pi with a dynamic, configurable frontend.
 
-🌐 Website: https://actionpanel.de
+🌐  Website: https://actionpanel.de
+    E-Mail info@actionpanel.de
 
 ---
 
