@@ -3,8 +3,9 @@
 🚀 Web-based GPIO & PWM control software for Raspberry Pi with a dynamic, configurable frontend.
 
 🌐  Website: https://actionpanel.de
-    E-Mail info@actionpanel.de
-
+Gumroad: https://actionpanel.gumroad.com/l/cggpcb
+E-Mail info@actionpanel.de
+    
 ---
 
 ## 🔌 Control GPIO & PWM. Visually. Easily.
